@@ -26,8 +26,7 @@ Key Features:
                 git clone https://github.com/yourusername/airvoyage.git
 
 4. Move Project:
-
-                Move the cloned 'airvoyage' folder into the 'htdocs' directory inside your XAMPP installation folder (usually located in                  C:\xampp\htdocs on Windows or /Applications/XAMPP/htdocs on macOS).
+                Move the cloned 'airvoyage' folder into the 'htdocs' directory inside your XAMPP installation folder (usually located in C:\xampp\htdocs on Windows or /Applications/XAMPP/htdocs on macOS).
    
 5. Database Setup:
                 Open your web browser and go to http://localhost/phpmyadmin.
