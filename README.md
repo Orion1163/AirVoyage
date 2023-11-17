@@ -6,11 +6,18 @@ GitHub Repository Description for "AirVoyage - Airline Reservation System":
 
 "AirVoyage is an airline reservation site built with PHP, HTML, CSS, Bootstrap, and MySQL. Streamline your travel plans with this intuitive system that allows users to easily book flights. The project emphasizes a responsive design and efficient database management."
 
+
 Key Features:
+
    *Seamless flight booking interface
+   
    *Responsive design for optimal user experience
+   
    *Robust backend powered by PHP and MySQL
+   
    *Modern and intuitive front-end using HTML and Bootstrap
+
+
 
 
 **How to Run the Project with XAMPP:
